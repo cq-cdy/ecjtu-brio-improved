@@ -1,0 +1,5 @@
+transformers==4.6.1
+rouge
+sentencepiece==0.1.96
+nltk==3.6.5
+datasets
